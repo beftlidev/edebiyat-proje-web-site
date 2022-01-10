@@ -1,1 +1,1 @@
-# edebiyat-proje-web-site
+# sg-site
